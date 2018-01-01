@@ -4,3 +4,4 @@ My solutions for [Cracking the Coding Interview challanges](https://www.hackerra
 
 #### Data Structures
 * [Arrays: Left Rotation](https://github.com/mccakir/HackerRank-CrackingTheCodingInterview-Solutions/blob/master/Arrays:LeftRotation.java)
+* [Strings: Making Anagrams](https://github.com/mccakir/HackerRank-CrackingTheCodingInterview-Solutions/blob/master/Strings:MakingAnagrams.java)
