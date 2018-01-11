@@ -7,3 +7,4 @@ My solutions for [Cracking the Coding Interview challanges](https://www.hackerra
 * [Strings: Making Anagrams](https://github.com/mccakir/HackerRank-CrackingTheCodingInterview-Solutions/blob/master/Strings:MakingAnagrams.java)
 * [Hash Tables: Ransom Note](https://github.com/mccakir/HackerRank-CrackingTheCodingInterview-Solutions/blob/master/HashTables:RansomNote.java)
 * [Linked Lists: Detect a Cycle](https://github.com/mccakir/HackerRank-CrackingTheCodingInterview-Solutions/blob/master/LinkedLists:DetectaCycle.java)
+* [Stacks: Balanced Brackets](https://github.com/mccakir/HackerRank-CrackingTheCodingInterview-Solutions/blob/master/Stacks:BalancedBrackets.java)
