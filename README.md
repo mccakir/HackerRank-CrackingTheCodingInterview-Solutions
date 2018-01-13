@@ -8,3 +8,4 @@ My solutions for [Cracking the Coding Interview challanges](https://www.hackerra
 * [Hash Tables: Ransom Note](https://github.com/mccakir/HackerRank-CrackingTheCodingInterview-Solutions/blob/master/HashTables:RansomNote.java)
 * [Linked Lists: Detect a Cycle](https://github.com/mccakir/HackerRank-CrackingTheCodingInterview-Solutions/blob/master/LinkedLists:DetectaCycle.java)
 * [Stacks: Balanced Brackets](https://github.com/mccakir/HackerRank-CrackingTheCodingInterview-Solutions/blob/master/Stacks:BalancedBrackets.java)
+* [Queues: A Tale of Two Stack](https://github.com/mccakir/HackerRank-CrackingTheCodingInterview-Solutions/blob/master/Queues:ATaleofTwoStacks.java)
