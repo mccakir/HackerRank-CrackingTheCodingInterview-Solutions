@@ -10,3 +10,4 @@ My solutions for [Cracking the Coding Interview challanges](https://www.hackerra
 * [Stacks: Balanced Brackets](https://github.com/mccakir/HackerRank-CrackingTheCodingInterview-Solutions/blob/master/Stacks:BalancedBrackets.java)
 * [Queues: A Tale of Two Stack](https://github.com/mccakir/HackerRank-CrackingTheCodingInterview-Solutions/blob/master/Queues:ATaleofTwoStacks.java)
 * [Trees: Is This a Binary Search Tree?](https://github.com/mccakir/HackerRank-CrackingTheCodingInterview-Solutions/blob/master/Trees:IsThisaBST.java)
+* [Tries: Contacts](https://github.com/mccakir/HackerRank-CrackingTheCodingInterview-Solutions/blob/master/Tries:Contacts.java)
