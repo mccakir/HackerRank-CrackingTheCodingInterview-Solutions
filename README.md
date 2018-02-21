@@ -17,3 +17,6 @@ My solutions for [Cracking the Coding Interview challanges](https://www.hackerra
 * [Sorting: Bubble Sort](https://github.com/mccakir/HackerRank-CrackingTheCodingInterview-Solutions/blob/master/Sorting:BubbleSort.java)
 * [Sorting: Comparator](https://github.com/mccakir/HackerRank-CrackingTheCodingInterview-Solutions/blob/master/Sorting:Comparator.java)
 * [Hash Tables: Ice Cream Parlor](https://github.com/mccakir/HackerRank-CrackingTheCodingInterview-Solutions/blob/master/HashTables:IceCreamParlor.java)
+
+#### Techniques/Concepts
+* [Time Compplexity: Primality](https://github.com/mccakir/HackerRank-CrackingTheCodingInterview-Solutions/blob/master/TimeComplexity:Primality.java)
