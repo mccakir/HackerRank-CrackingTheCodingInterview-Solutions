@@ -21,3 +21,4 @@ My solutions for [Cracking the Coding Interview challanges](https://www.hackerra
 #### Techniques/Concepts
 * [Time Complexity: Primality](https://github.com/mccakir/HackerRank-CrackingTheCodingInterview-Solutions/blob/master/TimeComplexity:Primality.java)
 * [Recursion: Fibonacci Numbers](https://github.com/mccakir/HackerRank-CrackingTheCodingInterview-Solutions/blob/master/Recursion:FibonacciNumbers.java)
+* [Recursion: Davis' Staircase](https://github.com/mccakir/HackerRank-CrackingTheCodingInterview-Solutions/blob/master/Recursion:DavisStaircase)
