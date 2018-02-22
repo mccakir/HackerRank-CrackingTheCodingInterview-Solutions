@@ -1,0 +1,24 @@
+import java.util.HashMap;
+import java.util.Scanner;
+
+public class Solution { static HashMap<Integer,Integer> cache = new HashMap<>();
+
+    public static void main(String[] args) {
+        Scanner in = new Scanner(System.in);
+        int s = in.nextInt();
+        cache.put(0,1);
+        for(int a0 = 0; a0 < s; a0++){
+            int n = in.nextInt();
+            System.out.println(calculatePossibleWays(n));
+        }
+    }
+
+    public static int calculatePossibleWays(int height){
+        if(height < 0) return 0;
+        if(cache.containsKey(height)) return cache.get(height);
+
+        int ways = calculatePossibleWays(height-1) + calculatePossibleWays(height-2) + calculatePossibleWays(height-3);
+        cache.put(height, ways);
+        return ways;
+    }
+}
